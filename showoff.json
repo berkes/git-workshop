@@ -1,1 +1,8 @@
-{ "name": "My Preso", "sections": [ {"section":"one"} ]}
+{ "name": "Git Workshop",
+  "sections": [
+    {"section":"setup"}
+    {"section":"branches"}
+    {"section":"remotes"}
+    {"section":"collaboration"}
+  ]
+}
