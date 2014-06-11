@@ -1,4 +1,5 @@
 { "name": "Git Workshop",
+  "description": "Git Workshop voor LUGNijmegen",
   "sections": [
     {"section":"setup"},
     {"section":"branches"},
