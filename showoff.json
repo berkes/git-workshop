@@ -1,6 +1,7 @@
 { "name": "Git Workshop",
   "description": "Git Workshop voor LUGNijmegen",
   "sections": [
+    {"section":"voorwoord"},
     {"section":"setup"},
     {"section":"branches"},
     {"section":"remotes"},
